@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "name": "ASP",
+      "image": "img/asp.jpg"
+    },
+    {
+      "id": 2,
+      "name": "C#",
+      "image": "img/c.jpg"
+    },
+    {
+      "id": 3,
+      "name": "C++",
+      "image": "img/c++.jpg"
+    },
+    {
+      "id": 4,
+      "name": "CSS3",
+      "image": "img/css3.jpg"
+    },
+    {
+      "id": 5,
+      "name": "HTML5",
+      "image": "img/html5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Java",
+      "image": "img/java.jpg"
+    },
+    {
+      "id": 7,
+      "name": "JS",
+      "image": "img/Js.jpg"
+    },
+    {
+      "id": 8,
+      "name": "PERL",
+      "image": "img/perl.jpg"
+    },
+    {
+      "id": 9,
+      "name": "PHP",
+      "image": "img/php.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Python",
+      "image": "img/pyt.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Ruby",
+      "image": "img/ruby.jpg"
+    },
+    {
+      "id": 12,
+      "name": "SQL",
+      "image": "img/sql.jpg"
+    }
+  ]
