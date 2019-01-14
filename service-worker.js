@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/seanB333.github.io/language-game/precache-manifest.bb1cbb10b848b23b0054ab707e01831c.js"
+  "/SeanB333.github.io/language-game/precache-manifest.32329e0efa737db3cb0a4a0e40fe22c5.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/seanB333.github.io/language-game/index.html", {
+workbox.routing.registerNavigationRoute("/SeanB333.github.io/language-game/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
